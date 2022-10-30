@@ -16,3 +16,10 @@ https://github.com/taoyds/spider
 
 Link to the article by the author Param Raval:
 https://towardsdatascience.com/natural-language-to-sql-use-it-on-your-own-database-d4cd5784d081
+
+
+Addition documentation and repository:
+https://github.com/FerreroJeremy/ln2sql
+https://github.com/dadashkarimi/seq2sql
+https://github.com/xiaojunxu/SQLNet
+http://www.ling.helsinki.fi/kit/2009s/clt231/NLTK/book/ch10-AnalyzingTheMeaningOfSentences.html#querying-a-database
